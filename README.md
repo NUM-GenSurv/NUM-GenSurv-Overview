@@ -1,21 +1,33 @@
-# NUM-GenSurv-Overview
-
+# NUM Genomische Surveillance Infrastruktur (GenSurv)
 Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwerks Universitätsmedizin (NUM)](https://www.netzwerk-universitaetsmedizin.de/).
-
-## Services
-
-### Sammlung von Sequenzierungs-Rohdaten
-![Logo von CoGDAT](https://cogdat.de/assets/img/logo_cogdat.svg "CogDAT Logo")
-
-### Visual Analytics und Varianten in Deutschland
 
 ## Interaktion
 
 Sie haben Fragen oder Kommentare zur Infrastruktur oder wollen als Nutzer mit dem Infrastruktur-Team interagieren? Bitte eröffnen Sie ein [Ticket](https://github.com/NUM-GenSurv/NUM-GenSurv-Overview/issues)!
 
+## Services
+
+### Sammlung von Sequenzierungs-Rohdaten
+[<img src="https://cogdat.de/assets/img/logo_cogdat.svg">](https://cogdat.de)
+
+Auf der CogDAT-Plattform werden Sequenzierungs-Rohdaten von SARS-CoV-2 gesammelt, Algorithmen und Pipelines für deren Verarbeitung entwickelt, und visuelle und analytische Tools zur Verbreitung von SARS-CoV-2-Varianten zur Verfügung gestellt.
+
+### Visual Analytics und Varianten in Deutschland
+MicroReact-basierende Analysen der viralen Variantenstruktur in Deutschland:
+
+<table width="100%">
+  <tr>
+    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_60.svg">](https://cogdat.de/bundeslaender_60.htm) </td>
+    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg">](https://cogdat.de/bundeslaender_unbeg.htm) </td>
+  </tr>
+</table>
+
+### Interaktion mit dem Öffentlichen Gesundheitsdienst
+Das [SARS-CoV-2 Genomics Dashboard Düsseldorf](https://covgen.hhu.de/Duesseldorf/) ist das zentrale Interaktionsinterface eines Pilotprojektes zur Nutzung von SARS-CoV-2-Seqenzierungsdaten im Öffentlichen Gesundheitsdienst.
+
 ## Source Codes
 
-In Zusammenhang mit der GenSurv-Infrastruktur stehende Algorithmen, Pipelines und Softwaresysteme werden auf GitHub oder anderen Open Source Repositories veröffentlicht.
+Weitere in Zusammenhang mit der GenSurv-Infrastruktur stehende Algorithmen, Pipelines und Softwaresysteme werden auf GitHub oder anderen Open Source Repositories veröffentlicht.
 
 - [DataMeta](https://github.com/ghga-de/datameta/)
 - [SARS-Cov-2 Genomics Dashboard](https://github.com/DiltheyLab/SARS-CoV2-Dashboard-Releases)
