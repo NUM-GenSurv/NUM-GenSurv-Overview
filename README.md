@@ -15,12 +15,15 @@ Auf der CogDAT-Plattform werden Sequenzierungs-Rohdaten von SARS-CoV-2 gesammelt
 ### Visual Analytics und Varianten in Deutschland
 MicroReact-basierende Analysen der viralen Variantenstruktur in Deutschland:
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td> <a href="https://cogdat.de/bundeslaender_60.htm"><img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="30%" height="30%"/></a></td>
-    <td> <a href="https://cogdat.de/bundeslaender_unbeg.htm"><img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg" width="30%" height="30%"/></a> </td>
+    <td style="text-align: center;"> <a href="https://cogdat.de/bundeslaender_60.htm"><img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="30%" height="30%"/></a></td>
+    <td style="text-align: center;"> <a href="https://cogdat.de/bundeslaender_unbeg.htm"><img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg" width="30%" height="30%"/></a> </td>
   </tr>
 </table>
+
+### Modellierung von Fallzahlen
+Das [Analyse- und Vorhersagetool für COVID-19](https://iuk-forecast.uniklinik-freiburg.de/) stellt ein Vorhersagetool zur Entwicklung der SARS-CoV-2-Pandemie bereit.
 
 ### Interaktion mit dem Öffentlichen Gesundheitsdienst
 Das [SARS-CoV-2 Genomics Dashboard Düsseldorf](https://covgen.hhu.de/Duesseldorf/) ist das zentrale Interaktionsinterface eines Pilotprojektes zur Nutzung von SARS-CoV-2-Seqenzierungsdaten im Öffentlichen Gesundheitsdienst.
