@@ -17,7 +17,10 @@ MicroReact-basierende Analysen der viralen Variantenstruktur in Deutschland:
 
 
 | :-------------: |:-------------:| 
-| <a href="https://cogdat.de/bundeslaender_60.htm"><img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="30%" height="30%"/></a>     | <a href="https://cogdat.de/bundeslaender_unbeg.htm"><img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg" width="30%" height="30%"/></a> | 
+| <a href="https://cogdat.de/bundeslaender_60.htm"><img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="10%" height="30%"/></a>     | <a href="https://cogdat.de/bundeslaender_unbeg.htm"><img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg" width="10%" height="30%"/></a> | 
+
+
+
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td style="text-align: center;  border:none; justify-content: center; background-color: coral;"> <a href="https://cogdat.de/bundeslaender_60.htm"><img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="30%" height="30%"/></a></td>
