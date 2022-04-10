@@ -5,7 +5,7 @@ Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwe
 
 Sie haben Fragen oder Kommentare zur Infrastruktur oder wollen als Nutzer mit dem Infrastruktur-Team interagieren? Bitte eröffnen Sie ein [Ticket](https://github.com/NUM-GenSurv/NUM-GenSurv-Overview/issues)!
 
-## Services
+## Komponenten
 
 ### Sammlung von Sequenzierungs-Rohdaten
 [<img src="https://cogdat.de/assets/img/logo_cogdat.svg">](https://cogdat.de)
@@ -17,8 +17,8 @@ MicroReact-basierende Analysen der viralen Variantenstruktur in Deutschland:
 
 <table width="100%">
   <tr>
-    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_60.svg">](https://cogdat.de/bundeslaender_60.htm) </td>
-    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg">](https://cogdat.de/bundeslaender_unbeg.htm) </td>
+    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_60.svg" width="30%" height="30%"/>](https://cogdat.de/bundeslaender_60.htm) </td>
+    <td> [<img src="https://cogdat.de/assets/img/bundeslaender_unbeg.svg" width="30%" height="30%"/>](https://cogdat.de/bundeslaender_unbeg.htm) </td>
   </tr>
 </table>
 
