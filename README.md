@@ -1,6 +1,6 @@
 # NUM-GenSurv-Overview
 
-Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des (Netzwerks Universitätsmedizin)[https://www.netzwerk-universitaetsmedizin.de/] (NUM).
+Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwerks Universitätsmedizin (NUM)](https://www.netzwerk-universitaetsmedizin.de/).
 
 ## Services
 
@@ -17,11 +17,11 @@ Sie haben Fragen oder Kommentare zur Infrastruktur oder wollen als Nutzer mit de
 
 In Zusammenhang mit der GenSurv-Infrastruktur stehende Algorithmen, Pipelines und Softwaresysteme werden auf GitHub oder anderen Open Source Repositories veröffentlicht.
 
-- (DataMeta)[https://github.com/ghga-de/datameta/]
-- (SARS-Cov-2 Genomics Dashboard)[https://github.com/DiltheyLab/SARS-CoV2-Dashboard-Releases]
+- [DataMeta](https://github.com/ghga-de/datameta/)
+- [SARS-Cov-2 Genomics Dashboard](https://github.com/DiltheyLab/SARS-CoV2-Dashboard-Releases)
 - 
 ## Partner
 
-- (GHGA)[https://www.ghga.de/]
-- (Deutsche Netzwerk für Bioinformatik Infrastruktur (de.NBI))[https://www.denbi.de/]
-- (NFDI4Microbiota)[https://nfdi4microbiota.de/]
+- [GHGA](https://www.ghga.de/)
+- [Deutsche Netzwerk für Bioinformatik Infrastruktur (de.NBI)](https://www.denbi.de/)
+- [NFDI4Microbiota](https://nfdi4microbiota.de/)
