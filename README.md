@@ -1,5 +1,6 @@
 # NUM Genomische Surveillance Infrastruktur (GenSurv)
-<a href="https://www.netzwerk-universitaetsmedizin.de/"><img src="https://raw.githubusercontent.com/NUM-GenSurv/NUM-GenSurv-Overview/main/graphics/NetzUniMed.jpg"  height="20%" width="20%" align="right"/></a>
+<div>
+<a href="https://www.netzwerk-universitaetsmedizin.de/"><img src="https://raw.githubusercontent.com/NUM-GenSurv/NUM-GenSurv-Overview/main/graphics/NetzUniMed.jpg"  height="20%" width="20%" align="right"/></a></div>
 
 Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwerks Universitätsmedizin (NUM)](https://www.netzwerk-universitaetsmedizin.de/).
 
@@ -50,4 +51,4 @@ Weitere in Zusammenhang mit der GenSurv-Infrastruktur stehende Algorithmen, Pipe
 
 Gefördert vom BMBF (Förderkennzeichen: 01KX2021).
 
-<img src="https://github.com/NUM-GenSurv/NUM-GenSurv-Overview/blob/main/graphics/BMBF_gef%C3%B6rdert%20vom_deutsch.jpg" height="10%" width="10%" align="right"/>
+<div><img src="https://github.com/NUM-GenSurv/NUM-GenSurv-Overview/blob/main/graphics/BMBF_gef%C3%B6rdert%20vom_deutsch.jpg" height="10%" width="10%" align="right"/></div>
