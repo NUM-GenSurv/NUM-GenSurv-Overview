@@ -1,6 +1,6 @@
 # NUM Genomische Surveillance Infrastruktur (GenSurv)
 <div style="width: 100%;">
-<a href="https://www.netzwerk-universitaetsmedizin.de/"><img src="https://raw.githubusercontent.com/NUM-GenSurv/NUM-GenSurv-Overview/main/graphics/NetzUniMed.jpg"  height="20%" width="20%" align="right"/></a></div>
+<a href="https://www.netzwerk-universitaetsmedizin.de/"><img src="https://raw.githubusercontent.com/NUM-GenSurv/NUM-GenSurv-Overview/main/graphics/NetzUniMed.jpg"  height="20%" width="20%" align="right"/></a></div><br/><br/><br/><br/><br/><br/>
 
 Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwerks Universitätsmedizin (NUM)](https://www.netzwerk-universitaetsmedizin.de/).
 
