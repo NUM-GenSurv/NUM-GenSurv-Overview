@@ -1,4 +1,7 @@
 # NUM Genomische Surveillance Infrastruktur (GenSurv)
+<div style="width: 100%; text-align: right";>
+<a href="https://www.netzwerk-universitaetsmedizin.de/"><img src="https://raw.githubusercontent.com/NUM-GenSurv/NUM-GenSurv-Overview/main/graphics/NetzUniMed.jpg"/></a></div>
+
 Willkommen auf der GitHub-Übersichtsseite der GenSurv-Infrastruktur des [Netzwerks Universitätsmedizin (NUM)](https://www.netzwerk-universitaetsmedizin.de/).
 
 ## Interaktion
@@ -43,3 +46,9 @@ Weitere in Zusammenhang mit der GenSurv-Infrastruktur stehende Algorithmen, Pipe
 - [GHGA](https://www.ghga.de/)
 - [Deutsche Netzwerk für Bioinformatik Infrastruktur (de.NBI)](https://www.denbi.de/)
 - [NFDI4Microbiota](https://nfdi4microbiota.de/)
+
+## Funding
+
+Gefördert vom BMBF (Förderkennzeichen: 01KX2021).
+
+<img src="https://github.com/NUM-GenSurv/NUM-GenSurv-Overview/blob/main/graphics/BMBF_gef%C3%B6rdert%20vom_deutsch.jpg"/>
